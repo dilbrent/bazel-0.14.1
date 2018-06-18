@@ -7,3 +7,7 @@ https://github.com/dilbrent/bazel-0.14.1/releases/tag/bazel-0.14.1-armv7l-kali-j
 This is step one of my master two-step plan to build TensorFlow natively on armv7l.
 
 ![Release screenshot](https://user-images.githubusercontent.com/10505790/41519051-9b8e5126-727a-11e8-8a4e-bed72dd5c7e8.png)
+
+For the record, build environment:
+root@kali:~/bazel-0.14.1# uname -a
+Linux kali 3.4.113-nethunter-klte-xx-3.0 #1 SMP PREEMPT Sat Sep 2 14:08:48 EDT 2017 armv7l GNU/Linux

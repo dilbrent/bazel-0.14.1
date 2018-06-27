@@ -8,6 +8,8 @@ This is step one of my master two-step plan to build TensorFlow natively on armv
 
 ![Release screenshot](https://user-images.githubusercontent.com/10505790/41519051-9b8e5126-727a-11e8-8a4e-bed72dd5c7e8.png)
 
+![Second environment](https://user-images.githubusercontent.com/10505790/41846935-352731b0-782d-11e8-8881-35929e0c11e8.png)
+
 For the record, build environment:
 
 root@kali:~/bazel-0.14.1# uname -a

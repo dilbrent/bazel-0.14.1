@@ -1,3 +1,7 @@
+# Newer bazel build/release for arm here:
+
+https://github.com/dilbrent/bazel/releases
+
 # bazel-0.14.1-armv7l-kali-java8
 
 My armv7l build of bazel 0.14.1 on Kali arm/NetHunter built with JDK8.  The binary is attached to the release. (Disclaimer: ymmv, but I've tried it in 2 arm environments so far and it works in both.)
